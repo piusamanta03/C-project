@@ -1,1 +1,1 @@
-# C-project
+virtual assistant project
